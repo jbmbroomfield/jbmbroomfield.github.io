@@ -1,5 +1,6 @@
 [
     {
+        "id": 0,
         "name": "Recruit",
         "nextLevel": 20,
         "stepSize": 2000,
@@ -8,11 +9,12 @@
         "blue": "blue"  
     },
     {
+        "id": 1,
         "name": "Initiate",
         "nextLevel": 10,
         "stepSize": 1900,
         "red": "magenta",
         "green": "yellow",
         "blue": "cyan"  
-    },
+    }
 ]
