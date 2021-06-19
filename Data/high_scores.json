@@ -6,5 +6,13 @@
         "red": "red",
         "green": "green",
         "blue": "blue"  
-    }
+    },
+    {
+        "name": "Initiate",
+        "nextLevel": 10,
+        "stepSize": 1900,
+        "red": "magenta",
+        "green": "yellow",
+        "blue": "cyan"  
+    },
 ]
