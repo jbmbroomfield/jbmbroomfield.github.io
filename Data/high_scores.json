@@ -1,4 +1,10 @@
 [
-    {"score": 1000},
-    {"score": 900}
+    {
+        "name": "Recruit",
+        "nextLevel": 20,
+        "stepSize": 2000,
+        "red": "red",
+        "green": "green",
+        "blue": "blue"  
+    }
 ]
