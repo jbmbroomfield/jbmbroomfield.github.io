@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Recruit",
-        "nextLevel": 20,
+        "goal": 20,
         "stepSize": 2000,
         "red": "red",
         "green": "green",
@@ -11,7 +11,7 @@
     {
         "id": 1,
         "name": "Initiate",
-        "nextLevel": 10,
+        "goal": 1000,
         "stepSize": 1900,
         "red": "magenta",
         "green": "yellow",
