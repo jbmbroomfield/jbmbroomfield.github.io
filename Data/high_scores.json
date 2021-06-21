@@ -6,15 +6,28 @@
         "stepSize": 2000,
         "red": "red",
         "green": "green",
-        "blue": "blue"  
+        "blue": "blue",
+        "purple": "purple"
     },
     {
         "id": 1,
         "name": "Initiate",
-        "goal": 1000,
+        "goal": 100,
         "stepSize": 1900,
-        "red": "magenta",
-        "green": "yellow",
-        "blue": "cyan"  
+        "red": "#ff6721",
+        "green": "#34eb6b",
+        "blue": "#219bff",
+        "purple": "#f021ff"
+    },
+    {
+        "id": 2,
+        "name": "Padawan",
+        "goal": 300,
+        "stepSize": 1800,
+        "red": "#db1a00",
+        "green": "#34eb6b",
+        "blue": "#25a302",
+        "purple": "#9500a6"
     }
+    
 ]
