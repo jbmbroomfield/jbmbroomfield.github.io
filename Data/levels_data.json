@@ -52,7 +52,7 @@
     {
         "id": 6,
         "name": "Expert",
-        "goal": 300,
+        "goal": 10000,
         "stepSize": 1000,
         "red": "#ff7373",
         "green": "#29ff3a",
