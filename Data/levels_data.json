@@ -13,21 +13,50 @@
         "id": 1,
         "name": "Initiate",
         "goal": 100,
-        "stepSize": 1900,
-        "red": "#ff6721",
-        "green": "#34eb6b",
-        "blue": "#4fe5ff",
-        "purple": "#f021ff"
+        "stepSize": 1800,
+        "red": "#ff9090",
+        "green": "#8effae",
+        "blue": "#75f3ff",
+        "purple": "#dc7fff"
     },
     {
         "id": 2,
-        "name": "Padawan",
+        "name": "Apprentice",
         "goal": 300,
-        "stepSize": 1800,
-        "red": "#db1a00",
-        "green": "#34eb6b",
-        "blue": "#0603ad",
-        "purple": "#9500a6"
-    }
-    
+        "stepSize": 1600,
+        "red": "#a80000",
+        "green": "#077700",
+        "blue": "#04019b",
+        "purple": "#9d02a3"
+    },
+    {
+        "id": 3,
+        "name": "Professional",
+        "goal": 800,
+        "stepSize": 1400,
+        "red": "#ff3131",
+        "green": "#3fff1c",
+        "blue": "#4560ff",
+        "purple": "#ff3bd9"
+    },
+    {
+        "id": 5,
+        "name": "Veteran",
+        "goal": 2000,
+        "stepSize": 1200,
+        "red": "#b84a4a",
+        "green": "#4f9959",
+        "blue": "#5d66af",
+        "purple": "#8f4984"
+    },
+    {
+        "id": 6,
+        "name": "Expert",
+        "goal": 300,
+        "stepSize": 1000,
+        "red": "#ff7373",
+        "green": "#29ff3a",
+        "blue": "#4cffea",
+        "purple": "#fe27ff"
+    }    
 ]
